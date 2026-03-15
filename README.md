@@ -6,16 +6,15 @@
 - 最近在玩 `Openclaw` 🦐
 
 ## 📚 主要作品
-### 🍅 番茄鐘 製作中
+### ToDoList 待辦事項
 - 極簡風格為主
 - 方便操作
-- 設計對象macos
+- 設計對象ios
   
 <details>
 <summary><strong>細節</strong></summary>
 
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 </details>  
 
